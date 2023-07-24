@@ -1,0 +1,7 @@
+
+.wrapper {
+    min-height: 100%;
+    /* La siguiente línea es importante para empujar el contenido hacia abajo cuando el footer no ocupa todo el espacio vertical */
+    margin-bottom: -60px;
+  }
+  
